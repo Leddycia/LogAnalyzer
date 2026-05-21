@@ -1,5 +1,9 @@
 # LogAnalyzer
 
+**Author:** Angie-Reyna Leddycia SAINT-VIL
+
+**Date:** May 2026
+
 A command-line tool that reads a web service log file and produces a plain-text report covering request volume, status code distribution, HTTP method usage, top endpoints by volume and latency (p95), top client IPs, and parsing anomalies. The parser tolerates several timestamp formats, several duration units, missing status codes, extra fields such as user agent and referrer, JSON-formatted lines, blank lines, and entirely malformed lines.
 
 ## Requirements
